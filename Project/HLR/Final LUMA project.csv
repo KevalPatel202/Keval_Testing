@@ -1,0 +1,216 @@
+Function ID,Functionality Name,Description
+1,Check web site URL,"While entering into the Address Bar,it is  opening the appropriate web site ."
+2,Check create an account link ,"Whlie clickling on the create an account link, it is working properly ."
+3,chack create an account button ,"Whlie clickling on the create an account button, it is opening the appropriate page."
+4,check sign link,"While clickling on the sign link , it is working button ."
+5,Check sign in button ,"While clickling on the sign button , it is not working button ."
+6,Check click here button  ,"Whlie clickling on the click here button , it is opening the Forgot Your Password page."
+7,Check forgot your password button,"while clickling on the forgot your password button , it is appropariate page."
+8,Check whats New button ,"whlie clickling on the whats new button  , it is opening the proper page ."
+9,check hoodies &sweatshirts button ,"Whlie clickling on the hoodies &sweatshirts button , it Is working properly ."
+10,Check style button ,"Whlie clickling on the style button ,it is show the proper details. "
+11,check full zip button ,"While clickling on the full zip button , it is opening the redirect page."
+12,check home button ,"whlie clickling on the home button , it is working properly."
+20,check women button ,"whlie clickling on the women button ,it is opening the option ."
+30,check tops button ,"whlie clickling on the  tops button ,it is working properly."
+31,check jackets button ,"while clickling on the jackets button , it is opening the proper page."
+40,check men button ,"whlie clickling on the men button , it is showing two options ."
+41,Check product image ,"whlie clickling on the product image, it is opening the proper image."
+42,Check size button ,"whlie clickling on the size button , it is showing different size work properly."
+43,Check color button ,"whlie clickling on the color button , it is working properly."
+44,Check Add to cart button ,"whlie clickling on the add to cart button , it is   show proper product in add to cart icon ."
+45,check bottoms button ,"while cklickling on the bottoms button, it is working properly."
+46,check pants button ,"whlie cklickling on the pants button , it is showing the all the pants options"
+55,Check Gear button ,"while clickling on the  Gear button , it is working propely ."
+56,Check bage button ,"whlie clickling on the bage button , it is show the bage option."
+65,Check training menu ,"whlie clickling on the training menu , it is working properly."
+66,Check sale button ,"whlie clickling on the sale button , it is show the proper details"
+67,check shop women deals button ,"whlie clickling on the shop women deals button , it is opening the appropriate page."
+68,check add to cart icon ,"while clickling on the add to cart icon , it is working peroperly."
+69,check proceed to checkout button ,"whlie clickling on the proceed to checkout button, it is opening the appropriate page."
+70,check next button ,"while clickling on the next button , it is open the peroper page."
+71,check place order button ,"whlie clickling on the place order button , it is working properly."
+72,check contineu shopping button ,"while clickling on the continew shopping button, it is opening the appropriate page."
+73,same as 27,"while clickling on the add to cart icon , it is working peroperly."
+74,check remove icon ,"whlie clickling on the remove icon , it is remove product item properly ."
+75,check edit item icon ,"while clickling on the edit item icon , it is opening the appropriate page."
+76,check update cart button ,"while clickling on the update cart button , it is working properly."
+77,check shop new yoga button ,"while clickling on the shop new yoga button  , it is opening the appropriate page."
+78,same as 16,"whlie clickling on the product image, it is opening the proper image."
+79,same as 19,"whlie clickling on the add to cart button , it is   show proper product in add to cart icon ."
+80,same as 18,"whlie clickling on the color button , it is working properly."
+90,Check shop Erin recommens ,"whlie clickling on the shop  erin recommens , it is opening the appropriate page."
+91,same as 9,"Whlie clickling on the style button ,it is show the proper details. "
+92,check treack pants,"while clickling on the teack pants , it is not show the proper treack pants ."
+93,check Aether Gym Pant image,"while clickling on the Aether Gym Pant image , it is working properly."
+94,check color button ,"while clickling on the color button, it is not the proper color on the product image."
+95,check extra image,"while check the extra image, it is not show the proper image. "
+96,same as 19,"whlie clickling on the add to cart button , it is   show proper product in add to cart icon ."
+110,check Hot sellers options ,"while clickling on the hot seller option , it is working properly."
+111,check hero hoodie,"while clickling on the hero hoodie , it is opening the appropriate page."
+112,same as 18,"whlie clickling on the color button , it is working properly."
+113,Check write for us  futter,"while clickling on the write for us futter , it is opening the appropriate page. "
+114,Check MY ACCOUNT HADER ,"while clickilng on the my account hader , it is working properly."
+115,Check sign in button ,"while clickling on the sign in button , it is not working properly."
+116,Check forgot button ,"while clickling on the forgot button , it is opening the appropriate page.  "
+117,Check reset password button ,"while clickling on the reset password button , it is not working but it show the invalid username and email message."
+118,check subscribe hader ,"while clickling on the subscribe hader , it is opening the appropariate page."
+119,check subscribe button ,"while clickling on the subscribe button , it is not working properly."
+120,check write for us hader ,"while clickling on the write for us , it is opening the appropriate page. "
+121,check submit an article button ,"while clickling on the submit an article button , it is working properly ."
+122,check getting started button ,"while clickling on the getting started button , it is not working"
+123,check search terms futter,"while clickling on the search terms futter , it is opening the appropriate page."
+124,check privacy policy futter,"while clickling on the privacy policy futter ,it is working properly."
+125,check advanced search futter ,"while clickling on the  advanced search  futter , it is opening the appropriate page."
+135,check Orders and Returns futter ,"while clickling on the Orders and Returns futter , it is opening the proper page."
+136,check continue button ," while clickling on the continue button , it is working proprly."
+137,check contact us futter ," while clickling on the contact us futter , it is opening the  appropriate page."
+138,check subscribe button ,"while clikling on the subscribe button ,It is opening the redirect page."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
